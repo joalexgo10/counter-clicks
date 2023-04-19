@@ -2,7 +2,7 @@ import React from "react";
 import "../styles/contador.css"
 
 
-function Contador({ numClicks }){
+function Contador(){
     return(
     <div 
     className = "contador">
